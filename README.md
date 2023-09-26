@@ -23,7 +23,7 @@ Trying some ideas based on adversarial learning to the Diversity-Is-All-You-Need
 
 ## Other ideas to explore
 
-### [Analogy-discovery](Analogy-discovery)
+### [Analogy-discovery](Analogy-discovery.md)
 I would like to explore that learns to create analogies from examples.
 
 ### Indepence of latent factors
